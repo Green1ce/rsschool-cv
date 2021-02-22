@@ -4,7 +4,7 @@
 
 * ### Brest, Belarus
 * ### Phone: _+375 29 246 67 76_
-* ### Discord: _Green1ce_#5866_
+* ### Discord: _Green1ce#5866_
 
 # Summary
 
@@ -12,6 +12,14 @@ I am a design engineer. I am studying to change my profession to a front-end dev
 
 # Skills
 
-* `#F00A` html & css
-* `#F00A` JS (basic)
-* `#F00A` Github (Green1ce)
+* html & css
+* JS (basic)
+* Github (Green1ce)
+
+# Education
+
+I am finished courses on front-end development at MyIT shcool in Brest
+
+# English
+
+I studied English at university 7 years ago. At the moment of the start course I am in English class pre-intermediate level.
